@@ -36,16 +36,7 @@ I specialize in architecting complex financial software and enterprise-level app
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/agwenchez254">
-    <img src="https://github-readme-stats.vercel.app/api?username=agwenchez254&show_icons=true&theme=radical&count_private=true" alt="agwenchez254's stats" />
-  </a>
-  <a href="https://github.com/agwenchez254">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=agwenchez254&theme=radical" alt="agwenchez254's streak" />
-  </a>
-</p>
 
 ---
 
